@@ -19,6 +19,8 @@ public class UserServiceTest {
         //UserDAO userDAO = (UserDAO)factory.getBean("u");
         //service.setUserDAO(userDAO);
         User u = new User();
+        u.setUsername("LCM");
+        u.setPassword("123456");
         service.add(u);
     }
 }
