@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jdom-2.0">
+    <CLASSES>
+      <root url="file://D:/java_tools/downloads/jdom-2.0.5" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/java_tools/downloads/jdom-2.0.5" />
+    </SOURCES>
+    <jarDirectory url="file://D:/java_tools/downloads/jdom-2.0.5" recursive="false" />
+    <jarDirectory url="file://D:/java_tools/downloads/jdom-2.0.5" recursive="false" type="SOURCES" />
+  </library>
+</component>

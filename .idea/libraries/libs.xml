@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://D:/java_tools/library/commons-logging.jar!/" />
+      <root url="file://D:/java_tools/library/spring-framework-3.2.5.RELEASE/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/java_tools/library/spring-framework-3.2.5.RELEASE/libs" />
+    </SOURCES>
+    <jarDirectory url="file://D:/java_tools/library/spring-framework-3.2.5.RELEASE/libs" recursive="false" />
+    <jarDirectory url="file://D:/java_tools/library/spring-framework-3.2.5.RELEASE/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
